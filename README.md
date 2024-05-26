@@ -237,7 +237,6 @@ ORDER BY Attrition_yes desc;
 
 <img width="508" alt="Screenshot 2024-05-26 at 2 47 00 PM" src="https://github.com/suraj-kumar-jha/Employee_Attrition_Analysis-Human_Resource---Power-BI_Project/assets/155900363/375ac80e-5a38-4ff8-b604-28dec8bd1778">
 
----------------------------
 
 ----------------
 ### Dashboard 
